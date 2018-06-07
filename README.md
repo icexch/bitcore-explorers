@@ -1,3 +1,4 @@
+# Without error: More than one instance of bitcore-lib found
 <img src="http://bitcore.io/css/images/module-explorer.png" alt="bitcore explorers" height="35">
 # Blockchain APIs for bitcore
 
